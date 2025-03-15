@@ -10,11 +10,6 @@ This guide is designed to prepare you thoroughly for performance testing and eng
 2. [LoadRunner Suite](#2-loadrunner-suite)
 3. [Apache JMeter](#3-apache-jmeter)
 4. [Monitoring Tools](#4-monitoring-tools)
-5. [Real-World Scenarios](#5-real-world-scenarios)
-6. [Interview Questions & Answers](#6-interview-questions--answers)
-7. [One-Month Study Plan](#7-one-month-study-plan)
-8. [Hands-On Practice Exercises](#8-hands-on-practice-exercises)
-9. [Resources & References](#9-resources--references)
 
 ## 1. Core Performance Testing Concepts
 
